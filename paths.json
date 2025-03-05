@@ -1,10 +1,5 @@
 {
   "mappings": [
-    "/content/mraedscloud/:/",
-    "/content/mraedscloud/configuration:/.helix/config.json",
-    "/content/mraedscloud/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/mraedscloud/"
-  ]
+    "/content/mraedscloud/:/"
+  ]  
 }
